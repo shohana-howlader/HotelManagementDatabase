@@ -87,5 +87,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For any questions or suggestions, please contact:
-* **Name**: Your Name
-* **Email**: your.email@example.com
+* **Name**: Shohana Howlader
+* **Email**: shohanahowlader@gmail.com
